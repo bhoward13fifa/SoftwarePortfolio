@@ -6,7 +6,7 @@ This program prints Hello World to the console.
 
 I created this program to begin my learning of the Python language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/NjQb771h-uU)
 
 # Development Environment
 
